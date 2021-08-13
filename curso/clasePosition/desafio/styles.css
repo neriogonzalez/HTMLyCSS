@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+  border: 2px black;
+}
+.box {
+  border: 2px black;
+  border-radius: 10px;
+  width: 100px;
+  height: 100px;
+}
+#uno {
+  background-color: red;
+}
+#dos {
+  background-color: grey;
+  width: 200rem;
+}
